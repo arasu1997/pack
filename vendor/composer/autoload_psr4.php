@@ -16,7 +16,6 @@ return array(
     'Symfony\\Component\\Console\\' => array($vendorDir . '/symfony/console'),
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
-    'Pack\\Pack\\' => array($baseDir . '/src'),
     'Laravel\\Ui\\' => array($vendorDir . '/laravel/ui/src'),
     'Illuminate\\Support\\' => array($vendorDir . '/illuminate/support'),
     'Illuminate\\Filesystem\\' => array($vendorDir . '/illuminate/filesystem'),
@@ -24,4 +23,5 @@ return array(
     'Illuminate\\Console\\' => array($vendorDir . '/illuminate/console'),
     'Doctrine\\Common\\Inflector\\' => array($vendorDir . '/doctrine/inflector/lib/Doctrine/Common/Inflector'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
+    'Arasu1997\\Pack\\' => array($baseDir . '/src'),
 );

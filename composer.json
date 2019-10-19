@@ -1,5 +1,5 @@
 {
-    "name": "mypackage/pack",
+    "name": "arasu1997/pack",
     "description": "my package pack",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Pack\\Pack\\": "src"
+            "Arasu1997\\Pack\\": "src"
         }
     }
 }

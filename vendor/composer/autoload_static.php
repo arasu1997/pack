@@ -28,7 +28,6 @@ class ComposerStaticInitbf60260fff2823e6e78393ed2582c8a0
         array (
             'Psr\\SimpleCache\\' => 16,
             'Psr\\Container\\' => 14,
-            'Pack\\Pack\\' => 10,
         ),
         'L' => 
         array (
@@ -48,6 +47,10 @@ class ComposerStaticInitbf60260fff2823e6e78393ed2582c8a0
         'C' => 
         array (
             'Carbon\\' => 7,
+        ),
+        'A' => 
+        array (
+            'Arasu1997\\Pack\\' => 15,
         ),
     );
 
@@ -92,10 +95,6 @@ class ComposerStaticInitbf60260fff2823e6e78393ed2582c8a0
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
         ),
-        'Pack\\Pack\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'Laravel\\Ui\\' => 
         array (
             0 => __DIR__ . '/..' . '/laravel/ui/src',
@@ -123,6 +122,10 @@ class ComposerStaticInitbf60260fff2823e6e78393ed2582c8a0
         'Carbon\\' => 
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
+        ),
+        'Arasu1997\\Pack\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
