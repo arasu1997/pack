@@ -1,0 +1,16 @@
+{
+    "name": "mypackage/pack",
+    "description": "my package pack",
+    "type": "library",
+    "require": {
+        "laravel/ui": "^1.0@dev",
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Pack\\": "src"
+        }
+    }
+}
